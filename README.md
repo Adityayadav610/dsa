@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/Adityayadav610/dsa/tree/master/0907-koko-eating-bananas) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Adityayadav610/dsa/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Adityayadav610/dsa/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [3605-construct-the-minimum-bitwise-array-i](https://github.com/Adityayadav610/dsa/tree/master/3605-construct-the-minimum-bitwise-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Adityayadav610/dsa/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3605-construct-the-minimum-bitwise-array-i](https://github.com/Adityayadav610/dsa/tree/master/3605-construct-the-minimum-bitwise-array-i) |
 ## Recursion
 |  |
 | ------- |
