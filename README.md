@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/Adityayadav610/dsa/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Adityayadav610/dsa/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3429-special-array-i](https://github.com/Adityayadav610/dsa/tree/master/3429-special-array-i) |
+| [3463-alternating-groups-i](https://github.com/Adityayadav610/dsa/tree/master/3463-alternating-groups-i) |
 | [3605-construct-the-minimum-bitwise-array-i](https://github.com/Adityayadav610/dsa/tree/master/3605-construct-the-minimum-bitwise-array-i) |
 ## Hash Table
 |  |
@@ -69,4 +70,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/Adityayadav610/dsa/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
+| [3463-alternating-groups-i](https://github.com/Adityayadav610/dsa/tree/master/3463-alternating-groups-i) |
 <!---LeetCode Topics End-->
