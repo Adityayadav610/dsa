@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [3379-score-of-a-string](https://github.com/Adityayadav610/dsa/tree/master/3379-score-of-a-string) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/Adityayadav610/dsa/tree/master/3408-count-the-number-of-special-characters-i) |
 ## Sliding Window
 |  |
