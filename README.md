@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Adityayadav610/dsa/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/Adityayadav610/dsa/tree/master/2000-minimum-speed-to-arrive-on-time) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Adityayadav610/dsa/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [3034-points-that-intersect-with-cars](https://github.com/Adityayadav610/dsa/tree/master/3034-points-that-intersect-with-cars) |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/Adityayadav610/dsa/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
 | [3220-count-tested-devices-after-test-operations](https://github.com/Adityayadav610/dsa/tree/master/3220-count-tested-devices-after-test-operations) |
 | [3334-apple-redistribution-into-boxes](https://github.com/Adityayadav610/dsa/tree/master/3334-apple-redistribution-into-boxes) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Adityayadav610/dsa/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Adityayadav610/dsa/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [3034-points-that-intersect-with-cars](https://github.com/Adityayadav610/dsa/tree/master/3034-points-that-intersect-with-cars) |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/Adityayadav610/dsa/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/Adityayadav610/dsa/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Adityayadav610/dsa/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
@@ -82,4 +84,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3220-count-tested-devices-after-test-operations](https://github.com/Adityayadav610/dsa/tree/master/3220-count-tested-devices-after-test-operations) |
+## Prefix Sum
+|  |
+| ------- |
+| [3034-points-that-intersect-with-cars](https://github.com/Adityayadav610/dsa/tree/master/3034-points-that-intersect-with-cars) |
 <!---LeetCode Topics End-->
