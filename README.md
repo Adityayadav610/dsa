@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Adityayadav610/dsa/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/Adityayadav610/dsa/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [2777-find-the-distinct-difference-array](https://github.com/Adityayadav610/dsa/tree/master/2777-find-the-distinct-difference-array) |
+| [2831-number-of-beautiful-pairs](https://github.com/Adityayadav610/dsa/tree/master/2831-number-of-beautiful-pairs) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Adityayadav610/dsa/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/Adityayadav610/dsa/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3034-points-that-intersect-with-cars](https://github.com/Adityayadav610/dsa/tree/master/3034-points-that-intersect-with-cars) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Adityayadav610/dsa/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2777-find-the-distinct-difference-array](https://github.com/Adityayadav610/dsa/tree/master/2777-find-the-distinct-difference-array) |
 | [2825-minimize-string-length](https://github.com/Adityayadav610/dsa/tree/master/2825-minimize-string-length) |
+| [2831-number-of-beautiful-pairs](https://github.com/Adityayadav610/dsa/tree/master/2831-number-of-beautiful-pairs) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Adityayadav610/dsa/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3034-points-that-intersect-with-cars](https://github.com/Adityayadav610/dsa/tree/master/3034-points-that-intersect-with-cars) |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/Adityayadav610/dsa/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2748-calculate-delayed-arrival-time](https://github.com/Adityayadav610/dsa/tree/master/2748-calculate-delayed-arrival-time) |
 | [2812-find-the-maximum-achievable-number](https://github.com/Adityayadav610/dsa/tree/master/2812-find-the-maximum-achievable-number) |
+| [2831-number-of-beautiful-pairs](https://github.com/Adityayadav610/dsa/tree/master/2831-number-of-beautiful-pairs) |
 | [2998-count-symmetric-integers](https://github.com/Adityayadav610/dsa/tree/master/2998-count-symmetric-integers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Adityayadav610/dsa/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Bit Manipulation
@@ -103,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [2831-number-of-beautiful-pairs](https://github.com/Adityayadav610/dsa/tree/master/2831-number-of-beautiful-pairs) |
 | [3220-count-tested-devices-after-test-operations](https://github.com/Adityayadav610/dsa/tree/master/3220-count-tested-devices-after-test-operations) |
 ## Prefix Sum
 |  |
@@ -116,4 +120,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2998-count-symmetric-integers](https://github.com/Adityayadav610/dsa/tree/master/2998-count-symmetric-integers) |
+## Number Theory
+|  |
+| ------- |
+| [2831-number-of-beautiful-pairs](https://github.com/Adityayadav610/dsa/tree/master/2831-number-of-beautiful-pairs) |
 <!---LeetCode Topics End-->
