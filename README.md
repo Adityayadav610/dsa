@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2876-number-of-employees-who-met-the-target](https://github.com/Adityayadav610/dsa/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3034-points-that-intersect-with-cars](https://github.com/Adityayadav610/dsa/tree/master/3034-points-that-intersect-with-cars) |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/Adityayadav610/dsa/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
+| [3164-last-visited-integers](https://github.com/Adityayadav610/dsa/tree/master/3164-last-visited-integers) |
 | [3220-count-tested-devices-after-test-operations](https://github.com/Adityayadav610/dsa/tree/master/3220-count-tested-devices-after-test-operations) |
 | [3334-apple-redistribution-into-boxes](https://github.com/Adityayadav610/dsa/tree/master/3334-apple-redistribution-into-boxes) |
 | [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/Adityayadav610/dsa/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2684-determine-the-winner-of-a-bowling-game](https://github.com/Adityayadav610/dsa/tree/master/2684-determine-the-winner-of-a-bowling-game) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Adityayadav610/dsa/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Adityayadav610/dsa/tree/master/2847-find-maximum-number-of-string-pairs) |
+| [3164-last-visited-integers](https://github.com/Adityayadav610/dsa/tree/master/3164-last-visited-integers) |
 | [3220-count-tested-devices-after-test-operations](https://github.com/Adityayadav610/dsa/tree/master/3220-count-tested-devices-after-test-operations) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Adityayadav610/dsa/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## String
