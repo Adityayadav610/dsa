@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/Adityayadav610/dsa/tree/master/0134-gas-station) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Adityayadav610/dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0907-koko-eating-bananas](https://github.com/Adityayadav610/dsa/tree/master/0907-koko-eating-bananas) |
+| [0924-fair-candy-swap](https://github.com/Adityayadav610/dsa/tree/master/0924-fair-candy-swap) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Adityayadav610/dsa/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/Adityayadav610/dsa/tree/master/2000-minimum-speed-to-arrive-on-time) |
 | [2684-determine-the-winner-of-a-bowling-game](https://github.com/Adityayadav610/dsa/tree/master/2684-determine-the-winner-of-a-bowling-game) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0924-fair-candy-swap](https://github.com/Adityayadav610/dsa/tree/master/0924-fair-candy-swap) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Adityayadav610/dsa/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Adityayadav610/dsa/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2777-find-the-distinct-difference-array](https://github.com/Adityayadav610/dsa/tree/master/2777-find-the-distinct-difference-array) |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0924-fair-candy-swap](https://github.com/Adityayadav610/dsa/tree/master/0924-fair-candy-swap) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Adityayadav610/dsa/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Adityayadav610/dsa/tree/master/3291-find-if-array-can-be-sorted) |
 | [3334-apple-redistribution-into-boxes](https://github.com/Adityayadav610/dsa/tree/master/3334-apple-redistribution-into-boxes) |
@@ -79,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Adityayadav610/dsa/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Adityayadav610/dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0907-koko-eating-bananas](https://github.com/Adityayadav610/dsa/tree/master/0907-koko-eating-bananas) |
+| [0924-fair-candy-swap](https://github.com/Adityayadav610/dsa/tree/master/0924-fair-candy-swap) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/Adityayadav610/dsa/tree/master/2000-minimum-speed-to-arrive-on-time) |
 ## Math
 |  |
