@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0924-fair-candy-swap](https://github.com/Adityayadav610/dsa/tree/master/0924-fair-candy-swap) |
 | [1185-find-in-mountain-array](https://github.com/Adityayadav610/dsa/tree/master/1185-find-in-mountain-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Adityayadav610/dsa/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1940-maximum-xor-for-each-query](https://github.com/Adityayadav610/dsa/tree/master/1940-maximum-xor-for-each-query) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/Adityayadav610/dsa/tree/master/2000-minimum-speed-to-arrive-on-time) |
 | [2047-find-a-peak-element-ii](https://github.com/Adityayadav610/dsa/tree/master/2047-find-a-peak-element-ii) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Adityayadav610/dsa/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [1940-maximum-xor-for-each-query](https://github.com/Adityayadav610/dsa/tree/master/1940-maximum-xor-for-each-query) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Adityayadav610/dsa/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Adityayadav610/dsa/tree/master/3291-find-if-array-can-be-sorted) |
 | [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/Adityayadav610/dsa/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1940-maximum-xor-for-each-query](https://github.com/Adityayadav610/dsa/tree/master/1940-maximum-xor-for-each-query) |
 | [2714-left-and-right-sum-differences](https://github.com/Adityayadav610/dsa/tree/master/2714-left-and-right-sum-differences) |
 | [3034-points-that-intersect-with-cars](https://github.com/Adityayadav610/dsa/tree/master/3034-points-that-intersect-with-cars) |
 ## Heap (Priority Queue)
