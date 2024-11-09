@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Adityayadav610/dsa/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Adityayadav610/dsa/tree/master/3291-find-if-array-can-be-sorted) |
 | [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/Adityayadav610/dsa/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
+| [3394-minimum-array-end](https://github.com/Adityayadav610/dsa/tree/master/3394-minimum-array-end) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Adityayadav610/dsa/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Adityayadav610/dsa/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3605-construct-the-minimum-bitwise-array-i](https://github.com/Adityayadav610/dsa/tree/master/3605-construct-the-minimum-bitwise-array-i) |
