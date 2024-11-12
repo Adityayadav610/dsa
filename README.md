@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/Adityayadav610/dsa/tree/master/0134-gas-station) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Adityayadav610/dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0496-next-greater-element-i](https://github.com/Adityayadav610/dsa/tree/master/0496-next-greater-element-i) |
+| [0735-asteroid-collision](https://github.com/Adityayadav610/dsa/tree/master/0735-asteroid-collision) |
 | [0907-koko-eating-bananas](https://github.com/Adityayadav610/dsa/tree/master/0907-koko-eating-bananas) |
 | [0924-fair-candy-swap](https://github.com/Adityayadav610/dsa/tree/master/0924-fair-candy-swap) |
 | [1185-find-in-mountain-array](https://github.com/Adityayadav610/dsa/tree/master/1185-find-in-mountain-array) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/Adityayadav610/dsa/tree/master/0735-asteroid-collision) |
 | [2551-apply-operations-to-an-array](https://github.com/Adityayadav610/dsa/tree/master/2551-apply-operations-to-an-array) |
 | [2684-determine-the-winner-of-a-bowling-game](https://github.com/Adityayadav610/dsa/tree/master/2684-determine-the-winner-of-a-bowling-game) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Adityayadav610/dsa/tree/master/2692-take-gifts-from-the-richest-pile) |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Adityayadav610/dsa/tree/master/0496-next-greater-element-i) |
+| [0735-asteroid-collision](https://github.com/Adityayadav610/dsa/tree/master/0735-asteroid-collision) |
 ## Monotonic Stack
 |  |
 | ------- |
