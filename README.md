@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0924-fair-candy-swap](https://github.com/Adityayadav610/dsa/tree/master/0924-fair-candy-swap) |
 | [1185-find-in-mountain-array](https://github.com/Adityayadav610/dsa/tree/master/1185-find-in-mountain-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Adityayadav610/dsa/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1935-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/Adityayadav610/dsa/tree/master/1935-minimum-number-of-operations-to-reinitialize-a-permutation) |
 | [1940-maximum-xor-for-each-query](https://github.com/Adityayadav610/dsa/tree/master/1940-maximum-xor-for-each-query) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/Adityayadav610/dsa/tree/master/2000-minimum-speed-to-arrive-on-time) |
 | [2047-find-a-peak-element-ii](https://github.com/Adityayadav610/dsa/tree/master/2047-find-a-peak-element-ii) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1935-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/Adityayadav610/dsa/tree/master/1935-minimum-number-of-operations-to-reinitialize-a-permutation) |
 | [2083-three-divisors](https://github.com/Adityayadav610/dsa/tree/master/2083-three-divisors) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Adityayadav610/dsa/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2716-prime-subtraction-operation](https://github.com/Adityayadav610/dsa/tree/master/2716-prime-subtraction-operation) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/Adityayadav610/dsa/tree/master/0735-asteroid-collision) |
+| [1935-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/Adityayadav610/dsa/tree/master/1935-minimum-number-of-operations-to-reinitialize-a-permutation) |
 | [2551-apply-operations-to-an-array](https://github.com/Adityayadav610/dsa/tree/master/2551-apply-operations-to-an-array) |
 | [2684-determine-the-winner-of-a-bowling-game](https://github.com/Adityayadav610/dsa/tree/master/2684-determine-the-winner-of-a-bowling-game) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Adityayadav610/dsa/tree/master/2692-take-gifts-from-the-richest-pile) |
