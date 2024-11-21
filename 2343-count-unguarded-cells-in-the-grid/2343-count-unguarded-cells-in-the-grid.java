@@ -19,7 +19,7 @@ class Solution {
         for (int[] guard : guards) {  
             int r = guard[0], c = guard[1];  
 
-            // For each guard, mark cells in all four directions  
+            
             for (int[] direction : directions) {  
                 int nr = r, nc = c;  
                 while (true) {  
