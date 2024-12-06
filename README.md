@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1944-truncate-sentence](https://github.com/Adityayadav610/dsa/tree/master/1944-truncate-sentence) |
 | [1970-sorting-the-sentence](https://github.com/Adityayadav610/dsa/tree/master/1970-sorting-the-sentence) |
 | [2010-check-if-word-equals-summation-of-two-words](https://github.com/Adityayadav610/dsa/tree/master/2010-check-if-word-equals-summation-of-two-words) |
+| [2401-count-asterisks](https://github.com/Adityayadav610/dsa/tree/master/2401-count-asterisks) |
 | [2427-first-letter-to-appear-twice](https://github.com/Adityayadav610/dsa/tree/master/2427-first-letter-to-appear-twice) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Adityayadav610/dsa/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/Adityayadav610/dsa/tree/master/2816-lexicographically-smallest-palindrome) |
