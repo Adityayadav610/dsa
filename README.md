@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Adityayadav610/dsa/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2226-rings-and-rods](https://github.com/Adityayadav610/dsa/tree/master/2226-rings-and-rods) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Adityayadav610/dsa/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2243-check-if-all-as-appears-before-all-bs](https://github.com/Adityayadav610/dsa/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [2401-count-asterisks](https://github.com/Adityayadav610/dsa/tree/master/2401-count-asterisks) |
 | [2427-first-letter-to-appear-twice](https://github.com/Adityayadav610/dsa/tree/master/2427-first-letter-to-appear-twice) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Adityayadav610/dsa/tree/master/2599-take-k-of-each-character-from-left-and-right) |
