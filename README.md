@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Adityayadav610/dsa/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/Adityayadav610/dsa/tree/master/2000-minimum-speed-to-arrive-on-time) |
 | [2047-find-a-peak-element-ii](https://github.com/Adityayadav610/dsa/tree/master/2047-find-a-peak-element-ii) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/Adityayadav610/dsa/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Adityayadav610/dsa/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Adityayadav610/dsa/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Adityayadav610/dsa/tree/master/2219-maximum-number-of-words-found-in-sentences) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0924-fair-candy-swap](https://github.com/Adityayadav610/dsa/tree/master/0924-fair-candy-swap) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Adityayadav610/dsa/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Adityayadav610/dsa/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/Adityayadav610/dsa/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2226-rings-and-rods](https://github.com/Adityayadav610/dsa/tree/master/2226-rings-and-rods) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Adityayadav610/dsa/tree/master/2308-divide-array-into-equal-pairs) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Adityayadav610/dsa/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1944-truncate-sentence](https://github.com/Adityayadav610/dsa/tree/master/1944-truncate-sentence) |
 | [1970-sorting-the-sentence](https://github.com/Adityayadav610/dsa/tree/master/1970-sorting-the-sentence) |
 | [2010-check-if-word-equals-summation-of-two-words](https://github.com/Adityayadav610/dsa/tree/master/2010-check-if-word-equals-summation-of-two-words) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/Adityayadav610/dsa/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Adityayadav610/dsa/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2226-rings-and-rods](https://github.com/Adityayadav610/dsa/tree/master/2226-rings-and-rods) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Adityayadav610/dsa/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -243,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/Adityayadav610/dsa/tree/master/0383-ransom-note) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/Adityayadav610/dsa/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Adityayadav610/dsa/tree/master/2308-divide-array-into-equal-pairs) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Adityayadav610/dsa/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2427-first-letter-to-appear-twice](https://github.com/Adityayadav610/dsa/tree/master/2427-first-letter-to-appear-twice) |
