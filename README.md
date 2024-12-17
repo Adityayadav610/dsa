@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Adityayadav610/dsa/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Adityayadav610/dsa/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1580-shuffle-the-array](https://github.com/Adityayadav610/dsa/tree/master/1580-shuffle-the-array) |
+| [1677-matrix-diagonal-sum](https://github.com/Adityayadav610/dsa/tree/master/1677-matrix-diagonal-sum) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Adityayadav610/dsa/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1755-defuse-the-bomb](https://github.com/Adityayadav610/dsa/tree/master/1755-defuse-the-bomb) |
 | [1829-maximum-units-on-a-truck](https://github.com/Adityayadav610/dsa/tree/master/1829-maximum-units-on-a-truck) |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Adityayadav610/dsa/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1677-matrix-diagonal-sum](https://github.com/Adityayadav610/dsa/tree/master/1677-matrix-diagonal-sum) |
 | [2047-find-a-peak-element-ii](https://github.com/Adityayadav610/dsa/tree/master/2047-find-a-peak-element-ii) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Adityayadav610/dsa/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [3516-design-neighbor-sum-service](https://github.com/Adityayadav610/dsa/tree/master/3516-design-neighbor-sum-service) |
