@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1642-water-bottles](https://github.com/Adityayadav610/dsa/tree/master/1642-water-bottles) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Adityayadav610/dsa/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Adityayadav610/dsa/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/Adityayadav610/dsa/tree/master/1920-determine-color-of-a-chessboard-square) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/Adityayadav610/dsa/tree/master/0735-asteroid-collision) |
+| [1642-water-bottles](https://github.com/Adityayadav610/dsa/tree/master/1642-water-bottles) |
 | [1935-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/Adityayadav610/dsa/tree/master/1935-minimum-number-of-operations-to-reinitialize-a-permutation) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Adityayadav610/dsa/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Adityayadav610/dsa/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
