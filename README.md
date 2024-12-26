@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0924-fair-candy-swap](https://github.com/Adityayadav610/dsa/tree/master/0924-fair-candy-swap) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Adityayadav610/dsa/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Adityayadav610/dsa/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1746-largest-substring-between-two-equal-characters](https://github.com/Adityayadav610/dsa/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Adityayadav610/dsa/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2226-rings-and-rods](https://github.com/Adityayadav610/dsa/tree/master/2226-rings-and-rods) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Adityayadav610/dsa/tree/master/2308-divide-array-into-equal-pairs) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1714-rearrange-spaces-between-words](https://github.com/Adityayadav610/dsa/tree/master/1714-rearrange-spaces-between-words) |
 | [1720-crawler-log-folder](https://github.com/Adityayadav610/dsa/tree/master/1720-crawler-log-folder) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Adityayadav610/dsa/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [1746-largest-substring-between-two-equal-characters](https://github.com/Adityayadav610/dsa/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/Adityayadav610/dsa/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/Adityayadav610/dsa/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [1944-truncate-sentence](https://github.com/Adityayadav610/dsa/tree/master/1944-truncate-sentence) |
