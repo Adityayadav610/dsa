@@ -239,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-reformat-date](https://github.com/Adityayadav610/dsa/tree/master/1283-reformat-date) |
 | [1714-rearrange-spaces-between-words](https://github.com/Adityayadav610/dsa/tree/master/1714-rearrange-spaces-between-words) |
 | [1720-crawler-log-folder](https://github.com/Adityayadav610/dsa/tree/master/1720-crawler-log-folder) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Adityayadav610/dsa/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/Adityayadav610/dsa/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/Adityayadav610/dsa/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [1944-truncate-sentence](https://github.com/Adityayadav610/dsa/tree/master/1944-truncate-sentence) |
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Adityayadav610/dsa/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Adityayadav610/dsa/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1720-crawler-log-folder](https://github.com/Adityayadav610/dsa/tree/master/1720-crawler-log-folder) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Adityayadav610/dsa/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
