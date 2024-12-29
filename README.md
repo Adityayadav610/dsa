@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/Adityayadav610/dsa/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
 | [3394-minimum-array-end](https://github.com/Adityayadav610/dsa/tree/master/3394-minimum-array-end) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Adityayadav610/dsa/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
+| [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Adityayadav610/dsa/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Adityayadav610/dsa/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3605-construct-the-minimum-bitwise-array-i](https://github.com/Adityayadav610/dsa/tree/master/3605-construct-the-minimum-bitwise-array-i) |
 ## Recursion
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Adityayadav610/dsa/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3379-score-of-a-string](https://github.com/Adityayadav610/dsa/tree/master/3379-score-of-a-string) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/Adityayadav610/dsa/tree/master/3408-count-the-number-of-special-characters-i) |
+| [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Adityayadav610/dsa/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 | [3540-hash-divided-string](https://github.com/Adityayadav610/dsa/tree/master/3540-hash-divided-string) |
 ## Sliding Window
 |  |
@@ -366,4 +368,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0198-house-robber](https://github.com/Adityayadav610/dsa/tree/master/0198-house-robber) |
+## Backtracking
+|  |
+| ------- |
+| [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Adityayadav610/dsa/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 <!---LeetCode Topics End-->
