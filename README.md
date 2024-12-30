@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-maximum-achievable-number](https://github.com/Adityayadav610/dsa/tree/master/2812-find-the-maximum-achievable-number) |
 | [2831-number-of-beautiful-pairs](https://github.com/Adityayadav610/dsa/tree/master/2831-number-of-beautiful-pairs) |
 | [2857-total-distance-traveled](https://github.com/Adityayadav610/dsa/tree/master/2857-total-distance-traveled) |
+| [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Adityayadav610/dsa/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [2998-count-symmetric-integers](https://github.com/Adityayadav610/dsa/tree/master/2998-count-symmetric-integers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Adityayadav610/dsa/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Bit Manipulation
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2083-three-divisors](https://github.com/Adityayadav610/dsa/tree/master/2083-three-divisors) |
 | [2716-prime-subtraction-operation](https://github.com/Adityayadav610/dsa/tree/master/2716-prime-subtraction-operation) |
 | [2831-number-of-beautiful-pairs](https://github.com/Adityayadav610/dsa/tree/master/2831-number-of-beautiful-pairs) |
+| [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Adityayadav610/dsa/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Design
 |  |
 | ------- |
@@ -374,4 +376,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Adityayadav610/dsa/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
+## Linked List
+|  |
+| ------- |
+| [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Adityayadav610/dsa/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 <!---LeetCode Topics End-->
