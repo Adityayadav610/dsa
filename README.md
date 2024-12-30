@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Adityayadav610/dsa/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/Adityayadav610/dsa/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Adityayadav610/dsa/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2887-sort-vowels-in-a-string](https://github.com/Adityayadav610/dsa/tree/master/2887-sort-vowels-in-a-string) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Adityayadav610/dsa/tree/master/3291-find-if-array-can-be-sorted) |
 | [3334-apple-redistribution-into-boxes](https://github.com/Adityayadav610/dsa/tree/master/3334-apple-redistribution-into-boxes) |
 ## Two Pointers
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2816-lexicographically-smallest-palindrome](https://github.com/Adityayadav610/dsa/tree/master/2816-lexicographically-smallest-palindrome) |
 | [2825-minimize-string-length](https://github.com/Adityayadav610/dsa/tree/master/2825-minimize-string-length) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Adityayadav610/dsa/tree/master/2847-find-maximum-number-of-string-pairs) |
+| [2887-sort-vowels-in-a-string](https://github.com/Adityayadav610/dsa/tree/master/2887-sort-vowels-in-a-string) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Adityayadav610/dsa/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3379-score-of-a-string](https://github.com/Adityayadav610/dsa/tree/master/3379-score-of-a-string) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/Adityayadav610/dsa/tree/master/3408-count-the-number-of-special-characters-i) |
