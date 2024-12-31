@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Adityayadav610/dsa/tree/master/0735-asteroid-collision) |
 | [0907-koko-eating-bananas](https://github.com/Adityayadav610/dsa/tree/master/0907-koko-eating-bananas) |
 | [0924-fair-candy-swap](https://github.com/Adityayadav610/dsa/tree/master/0924-fair-candy-swap) |
+| [1025-minimum-cost-for-tickets](https://github.com/Adityayadav610/dsa/tree/master/1025-minimum-cost-for-tickets) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Adityayadav610/dsa/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1185-find-in-mountain-array](https://github.com/Adityayadav610/dsa/tree/master/1185-find-in-mountain-array) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/Adityayadav610/dsa/tree/master/1210-mean-of-array-after-removing-some-elements) |
@@ -379,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0198-house-robber](https://github.com/Adityayadav610/dsa/tree/master/0198-house-robber) |
+| [1025-minimum-cost-for-tickets](https://github.com/Adityayadav610/dsa/tree/master/1025-minimum-cost-for-tickets) |
 ## Backtracking
 |  |
 | ------- |
