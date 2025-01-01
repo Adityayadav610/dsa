@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Adityayadav610/dsa/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2684-determine-the-winner-of-a-bowling-game](https://github.com/Adityayadav610/dsa/tree/master/2684-determine-the-winner-of-a-bowling-game) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Adityayadav610/dsa/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [2694-find-the-maximum-divisibility-score](https://github.com/Adityayadav610/dsa/tree/master/2694-find-the-maximum-divisibility-score) |
 | [2698-find-the-array-concatenation-value](https://github.com/Adityayadav610/dsa/tree/master/2698-find-the-array-concatenation-value) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Adityayadav610/dsa/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Adityayadav610/dsa/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
