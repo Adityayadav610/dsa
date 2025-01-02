@@ -389,5 +389,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0328-odd-even-linked-list](https://github.com/Adityayadav610/dsa/tree/master/0328-odd-even-linked-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Adityayadav610/dsa/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 <!---LeetCode Topics End-->
