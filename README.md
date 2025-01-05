@@ -242,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0930-all-possible-full-binary-trees](https://github.com/Adityayadav610/dsa/tree/master/0930-all-possible-full-binary-trees) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Adityayadav610/dsa/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Simulation
 |  |
@@ -389,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0198-house-robber](https://github.com/Adityayadav610/dsa/tree/master/0198-house-robber) |
+| [0930-all-possible-full-binary-trees](https://github.com/Adityayadav610/dsa/tree/master/0930-all-possible-full-binary-trees) |
 | [1025-minimum-cost-for-tickets](https://github.com/Adityayadav610/dsa/tree/master/1025-minimum-cost-for-tickets) |
 ## Backtracking
 |  |
@@ -407,4 +409,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0384-shuffle-an-array](https://github.com/Adityayadav610/dsa/tree/master/0384-shuffle-an-array) |
+## Tree
+|  |
+| ------- |
+| [0930-all-possible-full-binary-trees](https://github.com/Adityayadav610/dsa/tree/master/0930-all-possible-full-binary-trees) |
+## Memoization
+|  |
+| ------- |
+| [0930-all-possible-full-binary-trees](https://github.com/Adityayadav610/dsa/tree/master/0930-all-possible-full-binary-trees) |
+## Binary Tree
+|  |
+| ------- |
+| [0930-all-possible-full-binary-trees](https://github.com/Adityayadav610/dsa/tree/master/0930-all-possible-full-binary-trees) |
 <!---LeetCode Topics End-->
