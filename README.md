@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3519-find-the-number-of-winning-players](https://github.com/Adityayadav610/dsa/tree/master/3519-find-the-number-of-winning-players) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Adityayadav610/dsa/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3605-construct-the-minimum-bitwise-array-i](https://github.com/Adityayadav610/dsa/tree/master/3605-construct-the-minimum-bitwise-array-i) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/Adityayadav610/dsa/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Hash Table
 |  |
 | ------- |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3516-design-neighbor-sum-service](https://github.com/Adityayadav610/dsa/tree/master/3516-design-neighbor-sum-service) |
 | [3540-hash-divided-string](https://github.com/Adityayadav610/dsa/tree/master/3540-hash-divided-string) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Adityayadav610/dsa/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/Adityayadav610/dsa/tree/master/3616-make-array-elements-equal-to-zero) |
 ## String
 |  |
 | ------- |
@@ -337,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2469-longest-subsequence-with-limited-sum](https://github.com/Adityayadav610/dsa/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2714-left-and-right-sum-differences](https://github.com/Adityayadav610/dsa/tree/master/2714-left-and-right-sum-differences) |
 | [3034-points-that-intersect-with-cars](https://github.com/Adityayadav610/dsa/tree/master/3034-points-that-intersect-with-cars) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/Adityayadav610/dsa/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
