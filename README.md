@@ -268,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3220-count-tested-devices-after-test-operations](https://github.com/Adityayadav610/dsa/tree/master/3220-count-tested-devices-after-test-operations) |
 | [3516-design-neighbor-sum-service](https://github.com/Adityayadav610/dsa/tree/master/3516-design-neighbor-sum-service) |
 | [3540-hash-divided-string](https://github.com/Adityayadav610/dsa/tree/master/3540-hash-divided-string) |
+| [3566-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/Adityayadav610/dsa/tree/master/3566-find-the-sequence-of-strings-appeared-on-the-screen) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Adityayadav610/dsa/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Adityayadav610/dsa/tree/master/3616-make-array-elements-equal-to-zero) |
 ## String
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3408-count-the-number-of-special-characters-i](https://github.com/Adityayadav610/dsa/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Adityayadav610/dsa/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 | [3540-hash-divided-string](https://github.com/Adityayadav610/dsa/tree/master/3540-hash-divided-string) |
+| [3566-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/Adityayadav610/dsa/tree/master/3566-find-the-sequence-of-strings-appeared-on-the-screen) |
 ## Sliding Window
 |  |
 | ------- |
