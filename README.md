@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1185-find-in-mountain-array](https://github.com/Adityayadav610/dsa/tree/master/1185-find-in-mountain-array) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/Adityayadav610/dsa/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [1293-three-consecutive-odds](https://github.com/Adityayadav610/dsa/tree/master/1293-three-consecutive-odds) |
+| [1524-string-matching-in-an-array](https://github.com/Adityayadav610/dsa/tree/master/1524-string-matching-in-an-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Adityayadav610/dsa/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Adityayadav610/dsa/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Adityayadav610/dsa/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Adityayadav610/dsa/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/Adityayadav610/dsa/tree/master/0383-ransom-note) |
 | [1283-reformat-date](https://github.com/Adityayadav610/dsa/tree/master/1283-reformat-date) |
+| [1524-string-matching-in-an-array](https://github.com/Adityayadav610/dsa/tree/master/1524-string-matching-in-an-array) |
 | [1660-thousand-separator](https://github.com/Adityayadav610/dsa/tree/master/1660-thousand-separator) |
 | [1666-make-the-string-great](https://github.com/Adityayadav610/dsa/tree/master/1666-make-the-string-great) |
 | [1714-rearrange-spaces-between-words](https://github.com/Adityayadav610/dsa/tree/master/1714-rearrange-spaces-between-words) |
@@ -433,4 +435,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0930-all-possible-full-binary-trees](https://github.com/Adityayadav610/dsa/tree/master/0930-all-possible-full-binary-trees) |
+## String Matching
+|  |
+| ------- |
+| [1524-string-matching-in-an-array](https://github.com/Adityayadav610/dsa/tree/master/1524-string-matching-in-an-array) |
 <!---LeetCode Topics End-->
