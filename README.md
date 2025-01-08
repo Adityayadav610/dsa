@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1720-crawler-log-folder](https://github.com/Adityayadav610/dsa/tree/master/1720-crawler-log-folder) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Adityayadav610/dsa/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Adityayadav610/dsa/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
+| [1752-arithmetic-subarrays](https://github.com/Adityayadav610/dsa/tree/master/1752-arithmetic-subarrays) |
 | [1755-defuse-the-bomb](https://github.com/Adityayadav610/dsa/tree/master/1755-defuse-the-bomb) |
 | [1760-check-array-formation-through-concatenation](https://github.com/Adityayadav610/dsa/tree/master/1760-check-array-formation-through-concatenation) |
 | [1829-maximum-units-on-a-truck](https://github.com/Adityayadav610/dsa/tree/master/1829-maximum-units-on-a-truck) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Adityayadav610/dsa/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Adityayadav610/dsa/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/Adityayadav610/dsa/tree/master/1746-largest-substring-between-two-equal-characters) |
+| [1752-arithmetic-subarrays](https://github.com/Adityayadav610/dsa/tree/master/1752-arithmetic-subarrays) |
 | [1760-check-array-formation-through-concatenation](https://github.com/Adityayadav610/dsa/tree/master/1760-check-array-formation-through-concatenation) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Adityayadav610/dsa/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2226-rings-and-rods](https://github.com/Adityayadav610/dsa/tree/master/2226-rings-and-rods) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Adityayadav610/dsa/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Adityayadav610/dsa/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Adityayadav610/dsa/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
+| [1752-arithmetic-subarrays](https://github.com/Adityayadav610/dsa/tree/master/1752-arithmetic-subarrays) |
 | [1829-maximum-units-on-a-truck](https://github.com/Adityayadav610/dsa/tree/master/1829-maximum-units-on-a-truck) |
 | [1970-sorting-the-sentence](https://github.com/Adityayadav610/dsa/tree/master/1970-sorting-the-sentence) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Adityayadav610/dsa/tree/master/1988-minimize-maximum-pair-sum-in-array) |
