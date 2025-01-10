@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Adityayadav610/dsa/tree/master/0735-asteroid-collision) |
 | [0907-koko-eating-bananas](https://github.com/Adityayadav610/dsa/tree/master/0907-koko-eating-bananas) |
 | [0924-fair-candy-swap](https://github.com/Adityayadav610/dsa/tree/master/0924-fair-candy-swap) |
+| [0952-word-subsets](https://github.com/Adityayadav610/dsa/tree/master/0952-word-subsets) |
 | [0968-beautiful-array](https://github.com/Adityayadav610/dsa/tree/master/0968-beautiful-array) |
 | [1025-minimum-cost-for-tickets](https://github.com/Adityayadav610/dsa/tree/master/1025-minimum-cost-for-tickets) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Adityayadav610/dsa/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Adityayadav610/dsa/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/Adityayadav610/dsa/tree/master/0525-contiguous-array) |
 | [0924-fair-candy-swap](https://github.com/Adityayadav610/dsa/tree/master/0924-fair-candy-swap) |
+| [0952-word-subsets](https://github.com/Adityayadav610/dsa/tree/master/0952-word-subsets) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Adityayadav610/dsa/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Adityayadav610/dsa/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Adityayadav610/dsa/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -288,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Adityayadav610/dsa/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/Adityayadav610/dsa/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/Adityayadav610/dsa/tree/master/0383-ransom-note) |
+| [0952-word-subsets](https://github.com/Adityayadav610/dsa/tree/master/0952-word-subsets) |
 | [1283-reformat-date](https://github.com/Adityayadav610/dsa/tree/master/1283-reformat-date) |
 | [1524-string-matching-in-an-array](https://github.com/Adityayadav610/dsa/tree/master/1524-string-matching-in-an-array) |
 | [1660-thousand-separator](https://github.com/Adityayadav610/dsa/tree/master/1660-thousand-separator) |
