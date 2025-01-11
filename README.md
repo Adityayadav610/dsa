@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0924-fair-candy-swap](https://github.com/Adityayadav610/dsa/tree/master/0924-fair-candy-swap) |
 | [0952-word-subsets](https://github.com/Adityayadav610/dsa/tree/master/0952-word-subsets) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Adityayadav610/dsa/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1502-construct-k-palindrome-strings](https://github.com/Adityayadav610/dsa/tree/master/1502-construct-k-palindrome-strings) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Adityayadav610/dsa/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Adityayadav610/dsa/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/Adityayadav610/dsa/tree/master/1746-largest-substring-between-two-equal-characters) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/Adityayadav610/dsa/tree/master/0134-gas-station) |
+| [1502-construct-k-palindrome-strings](https://github.com/Adityayadav610/dsa/tree/master/1502-construct-k-palindrome-strings) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Adityayadav610/dsa/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1829-maximum-units-on-a-truck](https://github.com/Adityayadav610/dsa/tree/master/1829-maximum-units-on-a-truck) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/Adityayadav610/dsa/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Adityayadav610/dsa/tree/master/0383-ransom-note) |
 | [0952-word-subsets](https://github.com/Adityayadav610/dsa/tree/master/0952-word-subsets) |
 | [1283-reformat-date](https://github.com/Adityayadav610/dsa/tree/master/1283-reformat-date) |
+| [1502-construct-k-palindrome-strings](https://github.com/Adityayadav610/dsa/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/Adityayadav610/dsa/tree/master/1524-string-matching-in-an-array) |
 | [1660-thousand-separator](https://github.com/Adityayadav610/dsa/tree/master/1660-thousand-separator) |
 | [1666-make-the-string-great](https://github.com/Adityayadav610/dsa/tree/master/1666-make-the-string-great) |
@@ -339,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/Adityayadav610/dsa/tree/master/0383-ransom-note) |
+| [1502-construct-k-palindrome-strings](https://github.com/Adityayadav610/dsa/tree/master/1502-construct-k-palindrome-strings) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/Adityayadav610/dsa/tree/master/1823-determine-if-string-halves-are-alike) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Adityayadav610/dsa/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Adityayadav610/dsa/tree/master/2308-divide-array-into-equal-pairs) |
