@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/Adityayadav610/dsa/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/Adityayadav610/dsa/tree/master/0205-isomorphic-strings) |
+| [0290-word-pattern](https://github.com/Adityayadav610/dsa/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Adityayadav610/dsa/tree/master/0383-ransom-note) |
 | [0496-next-greater-element-i](https://github.com/Adityayadav610/dsa/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/Adityayadav610/dsa/tree/master/0525-contiguous-array) |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/Adityayadav610/dsa/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/Adityayadav610/dsa/tree/master/0205-isomorphic-strings) |
+| [0290-word-pattern](https://github.com/Adityayadav610/dsa/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Adityayadav610/dsa/tree/master/0383-ransom-note) |
 | [0952-word-subsets](https://github.com/Adityayadav610/dsa/tree/master/0952-word-subsets) |
 | [1283-reformat-date](https://github.com/Adityayadav610/dsa/tree/master/1283-reformat-date) |
