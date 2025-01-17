@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/Adityayadav610/dsa/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Adityayadav610/dsa/tree/master/0033-search-in-rotated-sorted-array) |
+| [0036-valid-sudoku](https://github.com/Adityayadav610/dsa/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Adityayadav610/dsa/tree/master/0049-group-anagrams) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Adityayadav610/dsa/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0134-gas-station](https://github.com/Adityayadav610/dsa/tree/master/0134-gas-station) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Adityayadav610/dsa/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Adityayadav610/dsa/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/Adityayadav610/dsa/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/Adityayadav610/dsa/tree/master/0290-word-pattern) |
@@ -416,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Adityayadav610/dsa/tree/master/0036-valid-sudoku) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Adityayadav610/dsa/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1677-matrix-diagonal-sum](https://github.com/Adityayadav610/dsa/tree/master/1677-matrix-diagonal-sum) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Adityayadav610/dsa/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
