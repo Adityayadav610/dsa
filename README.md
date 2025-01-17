@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/Adityayadav610/dsa/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [2777-find-the-distinct-difference-array](https://github.com/Adityayadav610/dsa/tree/master/2777-find-the-distinct-difference-array) |
 | [2791-find-the-losers-of-the-circular-game](https://github.com/Adityayadav610/dsa/tree/master/2791-find-the-losers-of-the-circular-game) |
+| [2792-neighboring-bitwise-xor](https://github.com/Adityayadav610/dsa/tree/master/2792-neighboring-bitwise-xor) |
 | [2831-number-of-beautiful-pairs](https://github.com/Adityayadav610/dsa/tree/master/2831-number-of-beautiful-pairs) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Adityayadav610/dsa/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/Adityayadav610/dsa/tree/master/2876-number-of-employees-who-met-the-target) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2427-first-letter-to-appear-twice](https://github.com/Adityayadav610/dsa/tree/master/2427-first-letter-to-appear-twice) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Adityayadav610/dsa/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Adityayadav610/dsa/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2792-neighboring-bitwise-xor](https://github.com/Adityayadav610/dsa/tree/master/2792-neighboring-bitwise-xor) |
 | [3249-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/Adityayadav610/dsa/tree/master/3249-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Adityayadav610/dsa/tree/master/3291-find-if-array-can-be-sorted) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Adityayadav610/dsa/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
