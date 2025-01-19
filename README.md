@@ -313,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Adityayadav610/dsa/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/Adityayadav610/dsa/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/Adityayadav610/dsa/tree/master/0067-add-binary) |
 | [0205-isomorphic-strings](https://github.com/Adityayadav610/dsa/tree/master/0205-isomorphic-strings) |
@@ -453,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Adityayadav610/dsa/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Adityayadav610/dsa/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Adityayadav610/dsa/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/Adityayadav610/dsa/tree/master/0198-house-robber) |
@@ -461,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Adityayadav610/dsa/tree/master/0022-generate-parentheses) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Adityayadav610/dsa/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Linked List
 |  |
