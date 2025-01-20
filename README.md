@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/Adityayadav610/dsa/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [1940-maximum-xor-for-each-query](https://github.com/Adityayadav610/dsa/tree/master/1940-maximum-xor-for-each-query) |
 | [1944-truncate-sentence](https://github.com/Adityayadav610/dsa/tree/master/1944-truncate-sentence) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/Adityayadav610/dsa/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Adityayadav610/dsa/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/Adityayadav610/dsa/tree/master/2000-minimum-speed-to-arrive-on-time) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/Adityayadav610/dsa/tree/master/2042-maximum-product-difference-between-two-pairs) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Adityayadav610/dsa/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [1752-arithmetic-subarrays](https://github.com/Adityayadav610/dsa/tree/master/1752-arithmetic-subarrays) |
 | [1829-maximum-units-on-a-truck](https://github.com/Adityayadav610/dsa/tree/master/1829-maximum-units-on-a-truck) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/Adityayadav610/dsa/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1970-sorting-the-sentence](https://github.com/Adityayadav610/dsa/tree/master/1970-sorting-the-sentence) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Adityayadav610/dsa/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/Adityayadav610/dsa/tree/master/2042-maximum-product-difference-between-two-pairs) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Adityayadav610/dsa/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1829-maximum-units-on-a-truck](https://github.com/Adityayadav610/dsa/tree/master/1829-maximum-units-on-a-truck) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/Adityayadav610/dsa/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/Adityayadav610/dsa/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Adityayadav610/dsa/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Adityayadav610/dsa/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/Adityayadav610/dsa/tree/master/2469-longest-subsequence-with-limited-sum) |
@@ -228,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1646-kth-missing-positive-number](https://github.com/Adityayadav610/dsa/tree/master/1646-kth-missing-positive-number) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Adityayadav610/dsa/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Adityayadav610/dsa/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/Adityayadav610/dsa/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/Adityayadav610/dsa/tree/master/2000-minimum-speed-to-arrive-on-time) |
 | [2047-find-a-peak-element-ii](https://github.com/Adityayadav610/dsa/tree/master/2047-find-a-peak-element-ii) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Adityayadav610/dsa/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -364,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Adityayadav610/dsa/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/Adityayadav610/dsa/tree/master/0239-sliding-window-maximum) |
 | [1755-defuse-the-bomb](https://github.com/Adityayadav610/dsa/tree/master/1755-defuse-the-bomb) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/Adityayadav610/dsa/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Adityayadav610/dsa/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Adityayadav610/dsa/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Adityayadav610/dsa/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
@@ -393,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Adityayadav610/dsa/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1833-find-the-highest-altitude](https://github.com/Adityayadav610/dsa/tree/master/1833-find-the-highest-altitude) |
 | [1940-maximum-xor-for-each-query](https://github.com/Adityayadav610/dsa/tree/master/1940-maximum-xor-for-each-query) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/Adityayadav610/dsa/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/Adityayadav610/dsa/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2714-left-and-right-sum-differences](https://github.com/Adityayadav610/dsa/tree/master/2714-left-and-right-sum-differences) |
 | [3034-points-that-intersect-with-cars](https://github.com/Adityayadav610/dsa/tree/master/3034-points-that-intersect-with-cars) |
