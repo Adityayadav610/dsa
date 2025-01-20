@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Adityayadav610/dsa/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Adityayadav610/dsa/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Adityayadav610/dsa/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/Adityayadav610/dsa/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Adityayadav610/dsa/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0134-gas-station](https://github.com/Adityayadav610/dsa/tree/master/0134-gas-station) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Adityayadav610/dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/Adityayadav610/dsa/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/Adityayadav610/dsa/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/Adityayadav610/dsa/tree/master/0075-sort-colors) |
 | [0147-insertion-sort-list](https://github.com/Adityayadav610/dsa/tree/master/0147-insertion-sort-list) |
 | [0924-fair-candy-swap](https://github.com/Adityayadav610/dsa/tree/master/0924-fair-candy-swap) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/Adityayadav610/dsa/tree/master/1210-mean-of-array-after-removing-some-elements) |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/Adityayadav610/dsa/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Adityayadav610/dsa/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0075-sort-colors](https://github.com/Adityayadav610/dsa/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Adityayadav610/dsa/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0125-valid-palindrome](https://github.com/Adityayadav610/dsa/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Adityayadav610/dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
