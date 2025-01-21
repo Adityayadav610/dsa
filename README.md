@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Adityayadav610/dsa/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Adityayadav610/dsa/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Adityayadav610/dsa/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/Adityayadav610/dsa/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/Adityayadav610/dsa/tree/master/2283-sort-even-and-odd-indices-independently) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Adityayadav610/dsa/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Adityayadav610/dsa/tree/master/2308-divide-array-into-equal-pairs) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Adityayadav610/dsa/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Adityayadav610/dsa/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Adityayadav610/dsa/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/Adityayadav610/dsa/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Adityayadav610/dsa/tree/master/2442-number-of-arithmetic-triplets) |
 | [2551-apply-operations-to-an-array](https://github.com/Adityayadav610/dsa/tree/master/2551-apply-operations-to-an-array) |
 | [2698-find-the-array-concatenation-value](https://github.com/Adityayadav610/dsa/tree/master/2698-find-the-array-concatenation-value) |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1642-water-bottles](https://github.com/Adityayadav610/dsa/tree/master/1642-water-bottles) |
 | [1682-most-visited-sector-in-a-circular-track](https://github.com/Adityayadav610/dsa/tree/master/1682-most-visited-sector-in-a-circular-track) |
 | [1935-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/Adityayadav610/dsa/tree/master/1935-minimum-number-of-operations-to-reinitialize-a-permutation) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/Adityayadav610/dsa/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Adityayadav610/dsa/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Adityayadav610/dsa/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2551-apply-operations-to-an-array](https://github.com/Adityayadav610/dsa/tree/master/2551-apply-operations-to-an-array) |
