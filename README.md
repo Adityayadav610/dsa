@@ -259,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0319-bulb-switcher](https://github.com/Adityayadav610/dsa/tree/master/0319-bulb-switcher) |
 | [0384-shuffle-an-array](https://github.com/Adityayadav610/dsa/tree/master/0384-shuffle-an-array) |
 | [0968-beautiful-array](https://github.com/Adityayadav610/dsa/tree/master/0968-beautiful-array) |
+| [1103-moving-stones-until-consecutive](https://github.com/Adityayadav610/dsa/tree/master/1103-moving-stones-until-consecutive) |
 | [1362-airplane-seat-assignment-probability](https://github.com/Adityayadav610/dsa/tree/master/1362-airplane-seat-assignment-probability) |
 | [1448-maximum-69-number](https://github.com/Adityayadav610/dsa/tree/master/1448-maximum-69-number) |
 | [1610-xor-operation-in-an-array](https://github.com/Adityayadav610/dsa/tree/master/1610-xor-operation-in-an-array) |
@@ -557,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/Adityayadav610/dsa/tree/master/0319-bulb-switcher) |
+| [1103-moving-stones-until-consecutive](https://github.com/Adityayadav610/dsa/tree/master/1103-moving-stones-until-consecutive) |
 | [1362-airplane-seat-assignment-probability](https://github.com/Adityayadav610/dsa/tree/master/1362-airplane-seat-assignment-probability) |
 | [2481-strictly-palindromic-number](https://github.com/Adityayadav610/dsa/tree/master/2481-strictly-palindromic-number) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Adityayadav610/dsa/tree/master/2533-bitwise-xor-of-all-pairings) |
