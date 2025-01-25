@@ -8,7 +8,7 @@ class Solution {
         int gap2 = z - y - 1;  
 
         int minMoves = 0;  
-        if (gap1 == 0 && gap2 == 0) {  
+        if (gap1 == 0 && gap2 == 0) {   
             minMoves = 0;  
         } else if (gap1 <= 1 || gap2 <= 1) {  
             minMoves = 1;  
