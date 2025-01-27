@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Adityayadav610/dsa/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/Adityayadav610/dsa/tree/master/0525-contiguous-array) |
 | [0735-asteroid-collision](https://github.com/Adityayadav610/dsa/tree/master/0735-asteroid-collision) |
+| [0828-chalkboard-xor-game](https://github.com/Adityayadav610/dsa/tree/master/0828-chalkboard-xor-game) |
 | [0907-koko-eating-bananas](https://github.com/Adityayadav610/dsa/tree/master/0907-koko-eating-bananas) |
 | [0924-fair-candy-swap](https://github.com/Adityayadav610/dsa/tree/master/0924-fair-candy-swap) |
 | [0952-word-subsets](https://github.com/Adityayadav610/dsa/tree/master/0952-word-subsets) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Adityayadav610/dsa/tree/master/0070-climbing-stairs) |
 | [0319-bulb-switcher](https://github.com/Adityayadav610/dsa/tree/master/0319-bulb-switcher) |
 | [0384-shuffle-an-array](https://github.com/Adityayadav610/dsa/tree/master/0384-shuffle-an-array) |
+| [0828-chalkboard-xor-game](https://github.com/Adityayadav610/dsa/tree/master/0828-chalkboard-xor-game) |
 | [0968-beautiful-array](https://github.com/Adityayadav610/dsa/tree/master/0968-beautiful-array) |
 | [1103-moving-stones-until-consecutive](https://github.com/Adityayadav610/dsa/tree/master/1103-moving-stones-until-consecutive) |
 | [1362-airplane-seat-assignment-probability](https://github.com/Adityayadav610/dsa/tree/master/1362-airplane-seat-assignment-probability) |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Adityayadav610/dsa/tree/master/0067-add-binary) |
 | [0137-single-number-ii](https://github.com/Adityayadav610/dsa/tree/master/0137-single-number-ii) |
+| [0828-chalkboard-xor-game](https://github.com/Adityayadav610/dsa/tree/master/0828-chalkboard-xor-game) |
 | [1610-xor-operation-in-an-array](https://github.com/Adityayadav610/dsa/tree/master/1610-xor-operation-in-an-array) |
 | [1839-decode-xored-array](https://github.com/Adityayadav610/dsa/tree/master/1839-decode-xored-array) |
 | [1940-maximum-xor-for-each-query](https://github.com/Adityayadav610/dsa/tree/master/1940-maximum-xor-for-each-query) |
@@ -560,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/Adityayadav610/dsa/tree/master/0319-bulb-switcher) |
+| [0828-chalkboard-xor-game](https://github.com/Adityayadav610/dsa/tree/master/0828-chalkboard-xor-game) |
 | [1103-moving-stones-until-consecutive](https://github.com/Adityayadav610/dsa/tree/master/1103-moving-stones-until-consecutive) |
 | [1362-airplane-seat-assignment-probability](https://github.com/Adityayadav610/dsa/tree/master/1362-airplane-seat-assignment-probability) |
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/Adityayadav610/dsa/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
@@ -581,4 +585,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1362-airplane-seat-assignment-probability](https://github.com/Adityayadav610/dsa/tree/master/1362-airplane-seat-assignment-probability) |
+## Game Theory
+|  |
+| ------- |
+| [0828-chalkboard-xor-game](https://github.com/Adityayadav610/dsa/tree/master/0828-chalkboard-xor-game) |
 <!---LeetCode Topics End-->
