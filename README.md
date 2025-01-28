@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Adityayadav610/dsa/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Adityayadav610/dsa/tree/master/2442-number-of-arithmetic-triplets) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/Adityayadav610/dsa/tree/master/2469-longest-subsequence-with-limited-sum) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Adityayadav610/dsa/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Adityayadav610/dsa/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2551-apply-operations-to-an-array](https://github.com/Adityayadav610/dsa/tree/master/2551-apply-operations-to-an-array) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Adityayadav610/dsa/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/Adityayadav610/dsa/tree/master/2308-divide-array-into-equal-pairs) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Adityayadav610/dsa/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2427-first-letter-to-appear-twice](https://github.com/Adityayadav610/dsa/tree/master/2427-first-letter-to-appear-twice) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Adityayadav610/dsa/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Adityayadav610/dsa/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Adityayadav610/dsa/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/Adityayadav610/dsa/tree/master/2792-neighboring-bitwise-xor) |
@@ -568,6 +570,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1362-airplane-seat-assignment-probability](https://github.com/Adityayadav610/dsa/tree/master/1362-airplane-seat-assignment-probability) |
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/Adityayadav610/dsa/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [2481-strictly-palindromic-number](https://github.com/Adityayadav610/dsa/tree/master/2481-strictly-palindromic-number) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Adityayadav610/dsa/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Adityayadav610/dsa/tree/master/2533-bitwise-xor-of-all-pairings) |
 ## Depth-First Search
 |  |
