@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Adityayadav610/dsa/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Adityayadav610/dsa/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Adityayadav610/dsa/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Adityayadav610/dsa/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/Adityayadav610/dsa/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Adityayadav610/dsa/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0134-gas-station](https://github.com/Adityayadav610/dsa/tree/master/0134-gas-station) |
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Adityayadav610/dsa/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/Adityayadav610/dsa/tree/master/0067-add-binary) |
 | [0735-asteroid-collision](https://github.com/Adityayadav610/dsa/tree/master/0735-asteroid-collision) |
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/Adityayadav610/dsa/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
@@ -460,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Adityayadav610/dsa/tree/master/0036-valid-sudoku) |
+| [0054-spiral-matrix](https://github.com/Adityayadav610/dsa/tree/master/0054-spiral-matrix) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Adityayadav610/dsa/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1677-matrix-diagonal-sum](https://github.com/Adityayadav610/dsa/tree/master/1677-matrix-diagonal-sum) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Adityayadav610/dsa/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
