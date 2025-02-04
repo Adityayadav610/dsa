@@ -367,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/Adityayadav610/dsa/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Adityayadav610/dsa/tree/master/0383-ransom-note) |
 | [0952-word-subsets](https://github.com/Adityayadav610/dsa/tree/master/0952-word-subsets) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Adityayadav610/dsa/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1283-reformat-date](https://github.com/Adityayadav610/dsa/tree/master/1283-reformat-date) |
 | [1502-construct-k-palindrome-strings](https://github.com/Adityayadav610/dsa/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/Adityayadav610/dsa/tree/master/1524-string-matching-in-an-array) |
@@ -492,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Adityayadav610/dsa/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/Adityayadav610/dsa/tree/master/0735-asteroid-collision) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Adityayadav610/dsa/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Adityayadav610/dsa/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1666-make-the-string-great](https://github.com/Adityayadav610/dsa/tree/master/1666-make-the-string-great) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Adityayadav610/dsa/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
