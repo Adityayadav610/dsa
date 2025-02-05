@@ -9,7 +9,7 @@ class Solution {
             isPrime[i] = true;  
         }  
 
-        for (int p = 2; p * p < n; p++) {  
+        for (int p = 2;  p*p < n; p++) {  
             if (isPrime[p]) {  
                 for (int multiple = p * p; multiple < n; multiple += p) {  
                     isPrime[multiple] = false;  
