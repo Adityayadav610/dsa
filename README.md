@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Adityayadav610/dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/Adityayadav610/dsa/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/Adityayadav610/dsa/tree/master/0198-house-robber) |
+| [0204-count-primes](https://github.com/Adityayadav610/dsa/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/Adityayadav610/dsa/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/Adityayadav610/dsa/tree/master/0239-sliding-window-maximum) |
 | [0384-shuffle-an-array](https://github.com/Adityayadav610/dsa/tree/master/0384-shuffle-an-array) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Adityayadav610/dsa/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Adityayadav610/dsa/tree/master/0070-climbing-stairs) |
+| [0204-count-primes](https://github.com/Adityayadav610/dsa/tree/master/0204-count-primes) |
 | [0319-bulb-switcher](https://github.com/Adityayadav610/dsa/tree/master/0319-bulb-switcher) |
 | [0384-shuffle-an-array](https://github.com/Adityayadav610/dsa/tree/master/0384-shuffle-an-array) |
 | [0828-chalkboard-xor-game](https://github.com/Adityayadav610/dsa/tree/master/0828-chalkboard-xor-game) |
@@ -460,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Adityayadav610/dsa/tree/master/0204-count-primes) |
 | [1656-count-good-triplets](https://github.com/Adityayadav610/dsa/tree/master/1656-count-good-triplets) |
 | [2083-three-divisors](https://github.com/Adityayadav610/dsa/tree/master/2083-three-divisors) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Adityayadav610/dsa/tree/master/2442-number-of-arithmetic-triplets) |
@@ -467,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Adityayadav610/dsa/tree/master/0204-count-primes) |
 | [2083-three-divisors](https://github.com/Adityayadav610/dsa/tree/master/2083-three-divisors) |
 | [2716-prime-subtraction-operation](https://github.com/Adityayadav610/dsa/tree/master/2716-prime-subtraction-operation) |
 | [2831-number-of-beautiful-pairs](https://github.com/Adityayadav610/dsa/tree/master/2831-number-of-beautiful-pairs) |
