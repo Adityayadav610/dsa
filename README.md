@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Adityayadav610/dsa/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/Adityayadav610/dsa/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Adityayadav610/dsa/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Adityayadav610/dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Adityayadav610/dsa/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/Adityayadav610/dsa/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Adityayadav610/dsa/tree/master/0560-subarray-sum-equals-k) |
@@ -370,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Adityayadav610/dsa/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/Adityayadav610/dsa/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Adityayadav610/dsa/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Adityayadav610/dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [0434-number-of-segments-in-a-string](https://github.com/Adityayadav610/dsa/tree/master/0434-number-of-segments-in-a-string) |
 | [0782-jewels-and-stones](https://github.com/Adityayadav610/dsa/tree/master/0782-jewels-and-stones) |
 | [0952-word-subsets](https://github.com/Adityayadav610/dsa/tree/master/0952-word-subsets) |
@@ -429,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/Adityayadav610/dsa/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Adityayadav610/dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [1502-construct-k-palindrome-strings](https://github.com/Adityayadav610/dsa/tree/master/1502-construct-k-palindrome-strings) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/Adityayadav610/dsa/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Adityayadav610/dsa/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -588,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Adityayadav610/dsa/tree/master/0239-sliding-window-maximum) |
+| [0387-first-unique-character-in-a-string](https://github.com/Adityayadav610/dsa/tree/master/0387-first-unique-character-in-a-string) |
 ## Monotonic Queue
 |  |
 | ------- |
