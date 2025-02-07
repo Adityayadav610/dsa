@@ -275,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Adityayadav610/dsa/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Adityayadav610/dsa/tree/master/0070-climbing-stairs) |
+| [0171-excel-sheet-column-number](https://github.com/Adityayadav610/dsa/tree/master/0171-excel-sheet-column-number) |
 | [0204-count-primes](https://github.com/Adityayadav610/dsa/tree/master/0204-count-primes) |
 | [0319-bulb-switcher](https://github.com/Adityayadav610/dsa/tree/master/0319-bulb-switcher) |
 | [0384-shuffle-an-array](https://github.com/Adityayadav610/dsa/tree/master/0384-shuffle-an-array) |
@@ -369,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Adityayadav610/dsa/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/Adityayadav610/dsa/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Adityayadav610/dsa/tree/master/0125-valid-palindrome) |
+| [0171-excel-sheet-column-number](https://github.com/Adityayadav610/dsa/tree/master/0171-excel-sheet-column-number) |
 | [0179-largest-number](https://github.com/Adityayadav610/dsa/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/Adityayadav610/dsa/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/Adityayadav610/dsa/tree/master/0290-word-pattern) |
