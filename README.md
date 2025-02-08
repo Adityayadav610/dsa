@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Adityayadav610/dsa/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0125-valid-palindrome](https://github.com/Adityayadav610/dsa/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Adityayadav610/dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0392-is-subsequence](https://github.com/Adityayadav610/dsa/tree/master/0392-is-subsequence) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Adityayadav610/dsa/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Adityayadav610/dsa/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Adityayadav610/dsa/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -378,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/Adityayadav610/dsa/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Adityayadav610/dsa/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Adityayadav610/dsa/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/Adityayadav610/dsa/tree/master/0392-is-subsequence) |
 | [0434-number-of-segments-in-a-string](https://github.com/Adityayadav610/dsa/tree/master/0434-number-of-segments-in-a-string) |
 | [0782-jewels-and-stones](https://github.com/Adityayadav610/dsa/tree/master/0782-jewels-and-stones) |
 | [0952-word-subsets](https://github.com/Adityayadav610/dsa/tree/master/0952-word-subsets) |
@@ -533,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Adityayadav610/dsa/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/Adityayadav610/dsa/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Adityayadav610/dsa/tree/master/0198-house-robber) |
+| [0392-is-subsequence](https://github.com/Adityayadav610/dsa/tree/master/0392-is-subsequence) |
 | [0930-all-possible-full-binary-trees](https://github.com/Adityayadav610/dsa/tree/master/0930-all-possible-full-binary-trees) |
 | [1025-minimum-cost-for-tickets](https://github.com/Adityayadav610/dsa/tree/master/1025-minimum-cost-for-tickets) |
 | [1362-airplane-seat-assignment-probability](https://github.com/Adityayadav610/dsa/tree/master/1362-airplane-seat-assignment-probability) |
