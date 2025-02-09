@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/Adityayadav610/dsa/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Adityayadav610/dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0735-asteroid-collision](https://github.com/Adityayadav610/dsa/tree/master/0735-asteroid-collision) |
+| [0822-unique-morse-code-words](https://github.com/Adityayadav610/dsa/tree/master/0822-unique-morse-code-words) |
 | [0828-chalkboard-xor-game](https://github.com/Adityayadav610/dsa/tree/master/0828-chalkboard-xor-game) |
 | [0907-koko-eating-bananas](https://github.com/Adityayadav610/dsa/tree/master/0907-koko-eating-bananas) |
 | [0924-fair-candy-swap](https://github.com/Adityayadav610/dsa/tree/master/0924-fair-candy-swap) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/Adityayadav610/dsa/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Adityayadav610/dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0782-jewels-and-stones](https://github.com/Adityayadav610/dsa/tree/master/0782-jewels-and-stones) |
+| [0822-unique-morse-code-words](https://github.com/Adityayadav610/dsa/tree/master/0822-unique-morse-code-words) |
 | [0924-fair-candy-swap](https://github.com/Adityayadav610/dsa/tree/master/0924-fair-candy-swap) |
 | [0952-word-subsets](https://github.com/Adityayadav610/dsa/tree/master/0952-word-subsets) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Adityayadav610/dsa/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
@@ -382,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Adityayadav610/dsa/tree/master/0392-is-subsequence) |
 | [0434-number-of-segments-in-a-string](https://github.com/Adityayadav610/dsa/tree/master/0434-number-of-segments-in-a-string) |
 | [0782-jewels-and-stones](https://github.com/Adityayadav610/dsa/tree/master/0782-jewels-and-stones) |
+| [0822-unique-morse-code-words](https://github.com/Adityayadav610/dsa/tree/master/0822-unique-morse-code-words) |
 | [0952-word-subsets](https://github.com/Adityayadav610/dsa/tree/master/0952-word-subsets) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Adityayadav610/dsa/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1283-reformat-date](https://github.com/Adityayadav610/dsa/tree/master/1283-reformat-date) |
