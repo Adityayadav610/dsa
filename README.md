@@ -383,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Adityayadav610/dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Adityayadav610/dsa/tree/master/0392-is-subsequence) |
 | [0434-number-of-segments-in-a-string](https://github.com/Adityayadav610/dsa/tree/master/0434-number-of-segments-in-a-string) |
+| [0742-to-lower-case](https://github.com/Adityayadav610/dsa/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/Adityayadav610/dsa/tree/master/0782-jewels-and-stones) |
 | [0822-unique-morse-code-words](https://github.com/Adityayadav610/dsa/tree/master/0822-unique-morse-code-words) |
 | [0952-word-subsets](https://github.com/Adityayadav610/dsa/tree/master/0952-word-subsets) |
