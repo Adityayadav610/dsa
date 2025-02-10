@@ -1,6 +1,6 @@
 class Solution {
     public String addStrings(String a, String b) {
-         StringBuilder result = new StringBuilder();
+        StringBuilder result = new StringBuilder();
         int carry = 0;
 
         int i = a.length()-1;
