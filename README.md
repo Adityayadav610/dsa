@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Adityayadav610/dsa/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/Adityayadav610/dsa/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Adityayadav610/dsa/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/Adityayadav610/dsa/tree/master/0205-isomorphic-strings) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Adityayadav610/dsa/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/Adityayadav610/dsa/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Adityayadav610/dsa/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/Adityayadav610/dsa/tree/master/0168-excel-sheet-column-title) |
@@ -374,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Adityayadav610/dsa/tree/master/0013-roman-to-integer) |
 | [0022-generate-parentheses](https://github.com/Adityayadav610/dsa/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/Adityayadav610/dsa/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/Adityayadav610/dsa/tree/master/0067-add-binary) |
