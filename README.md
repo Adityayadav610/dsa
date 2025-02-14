@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Adityayadav610/dsa/tree/master/0735-asteroid-collision) |
 | [0822-unique-morse-code-words](https://github.com/Adityayadav610/dsa/tree/master/0822-unique-morse-code-words) |
 | [0828-chalkboard-xor-game](https://github.com/Adityayadav610/dsa/tree/master/0828-chalkboard-xor-game) |
+| [0841-shortest-distance-to-a-character](https://github.com/Adityayadav610/dsa/tree/master/0841-shortest-distance-to-a-character) |
 | [0907-koko-eating-bananas](https://github.com/Adityayadav610/dsa/tree/master/0907-koko-eating-bananas) |
 | [0924-fair-candy-swap](https://github.com/Adityayadav610/dsa/tree/master/0924-fair-candy-swap) |
 | [0952-word-subsets](https://github.com/Adityayadav610/dsa/tree/master/0952-word-subsets) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Adityayadav610/dsa/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Adityayadav610/dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0392-is-subsequence](https://github.com/Adityayadav610/dsa/tree/master/0392-is-subsequence) |
+| [0841-shortest-distance-to-a-character](https://github.com/Adityayadav610/dsa/tree/master/0841-shortest-distance-to-a-character) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Adityayadav610/dsa/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Adityayadav610/dsa/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Adityayadav610/dsa/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -398,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0742-to-lower-case](https://github.com/Adityayadav610/dsa/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/Adityayadav610/dsa/tree/master/0782-jewels-and-stones) |
 | [0822-unique-morse-code-words](https://github.com/Adityayadav610/dsa/tree/master/0822-unique-morse-code-words) |
+| [0841-shortest-distance-to-a-character](https://github.com/Adityayadav610/dsa/tree/master/0841-shortest-distance-to-a-character) |
 | [0952-word-subsets](https://github.com/Adityayadav610/dsa/tree/master/0952-word-subsets) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Adityayadav610/dsa/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1283-reformat-date](https://github.com/Adityayadav610/dsa/tree/master/1283-reformat-date) |
