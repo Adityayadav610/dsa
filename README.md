@@ -404,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0822-unique-morse-code-words](https://github.com/Adityayadav610/dsa/tree/master/0822-unique-morse-code-words) |
 | [0841-shortest-distance-to-a-character](https://github.com/Adityayadav610/dsa/tree/master/0841-shortest-distance-to-a-character) |
 | [0952-word-subsets](https://github.com/Adityayadav610/dsa/tree/master/0952-word-subsets) |
+| [1078-remove-outermost-parentheses](https://github.com/Adityayadav610/dsa/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Adityayadav610/dsa/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1283-reformat-date](https://github.com/Adityayadav610/dsa/tree/master/1283-reformat-date) |
 | [1502-construct-k-palindrome-strings](https://github.com/Adityayadav610/dsa/tree/master/1502-construct-k-palindrome-strings) |
@@ -537,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Adityayadav610/dsa/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/Adityayadav610/dsa/tree/master/0735-asteroid-collision) |
+| [1078-remove-outermost-parentheses](https://github.com/Adityayadav610/dsa/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Adityayadav610/dsa/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Adityayadav610/dsa/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1666-make-the-string-great](https://github.com/Adityayadav610/dsa/tree/master/1666-make-the-string-great) |
