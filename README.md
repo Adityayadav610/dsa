@@ -399,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/Adityayadav610/dsa/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/Adityayadav610/dsa/tree/master/0434-number-of-segments-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/Adityayadav610/dsa/tree/master/0459-repeated-substring-pattern) |
+| [0520-detect-capital](https://github.com/Adityayadav610/dsa/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Adityayadav610/dsa/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0742-to-lower-case](https://github.com/Adityayadav610/dsa/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/Adityayadav610/dsa/tree/master/0782-jewels-and-stones) |
