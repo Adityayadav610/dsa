@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2831-number-of-beautiful-pairs](https://github.com/Adityayadav610/dsa/tree/master/2831-number-of-beautiful-pairs) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Adityayadav610/dsa/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/Adityayadav610/dsa/tree/master/2876-number-of-employees-who-met-the-target) |
+| [2881-split-strings-by-separator](https://github.com/Adityayadav610/dsa/tree/master/2881-split-strings-by-separator) |
 | [3034-points-that-intersect-with-cars](https://github.com/Adityayadav610/dsa/tree/master/3034-points-that-intersect-with-cars) |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/Adityayadav610/dsa/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
 | [3164-last-visited-integers](https://github.com/Adityayadav610/dsa/tree/master/3164-last-visited-integers) |
@@ -447,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2816-lexicographically-smallest-palindrome](https://github.com/Adityayadav610/dsa/tree/master/2816-lexicographically-smallest-palindrome) |
 | [2825-minimize-string-length](https://github.com/Adityayadav610/dsa/tree/master/2825-minimize-string-length) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Adityayadav610/dsa/tree/master/2847-find-maximum-number-of-string-pairs) |
+| [2881-split-strings-by-separator](https://github.com/Adityayadav610/dsa/tree/master/2881-split-strings-by-separator) |
 | [2887-sort-vowels-in-a-string](https://github.com/Adityayadav610/dsa/tree/master/2887-sort-vowels-in-a-string) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Adityayadav610/dsa/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Adityayadav610/dsa/tree/master/3309-count-prefix-and-suffix-pairs-i) |
