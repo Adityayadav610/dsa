@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/Adityayadav610/dsa/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Adityayadav610/dsa/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Adityayadav610/dsa/tree/master/2179-most-beautiful-item-for-each-query) |
+| [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Adityayadav610/dsa/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/Adityayadav610/dsa/tree/master/2283-sort-even-and-odd-indices-independently) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Adityayadav610/dsa/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/Adityayadav610/dsa/tree/master/2469-longest-subsequence-with-limited-sum) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Adityayadav610/dsa/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Adityayadav610/dsa/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Adityayadav610/dsa/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Adityayadav610/dsa/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Adityayadav610/dsa/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/Adityayadav610/dsa/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Adityayadav610/dsa/tree/master/2704-maximum-difference-by-remapping-a-digit) |
@@ -325,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1935-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/Adityayadav610/dsa/tree/master/1935-minimum-number-of-operations-to-reinitialize-a-permutation) |
 | [2083-three-divisors](https://github.com/Adityayadav610/dsa/tree/master/2083-three-divisors) |
 | [2238-a-number-after-a-double-reversal](https://github.com/Adityayadav610/dsa/tree/master/2238-a-number-after-a-double-reversal) |
+| [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Adityayadav610/dsa/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2481-strictly-palindromic-number](https://github.com/Adityayadav610/dsa/tree/master/2481-strictly-palindromic-number) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Adityayadav610/dsa/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2716-prime-subtraction-operation](https://github.com/Adityayadav610/dsa/tree/master/2716-prime-subtraction-operation) |
