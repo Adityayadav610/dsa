@@ -312,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Adityayadav610/dsa/tree/master/0204-count-primes) |
 | [0264-ugly-number-ii](https://github.com/Adityayadav610/dsa/tree/master/0264-ugly-number-ii) |
 | [0319-bulb-switcher](https://github.com/Adityayadav610/dsa/tree/master/0319-bulb-switcher) |
+| [0371-sum-of-two-integers](https://github.com/Adityayadav610/dsa/tree/master/0371-sum-of-two-integers) |
 | [0384-shuffle-an-array](https://github.com/Adityayadav610/dsa/tree/master/0384-shuffle-an-array) |
 | [0415-add-strings](https://github.com/Adityayadav610/dsa/tree/master/0415-add-strings) |
 | [0828-chalkboard-xor-game](https://github.com/Adityayadav610/dsa/tree/master/0828-chalkboard-xor-game) |
@@ -348,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Adityayadav610/dsa/tree/master/0067-add-binary) |
 | [0137-single-number-ii](https://github.com/Adityayadav610/dsa/tree/master/0137-single-number-ii) |
+| [0371-sum-of-two-integers](https://github.com/Adityayadav610/dsa/tree/master/0371-sum-of-two-integers) |
 | [0828-chalkboard-xor-game](https://github.com/Adityayadav610/dsa/tree/master/0828-chalkboard-xor-game) |
 | [1610-xor-operation-in-an-array](https://github.com/Adityayadav610/dsa/tree/master/1610-xor-operation-in-an-array) |
 | [1839-decode-xored-array](https://github.com/Adityayadav610/dsa/tree/master/1839-decode-xored-array) |
