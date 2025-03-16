@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1185-find-in-mountain-array](https://github.com/Adityayadav610/dsa/tree/master/1185-find-in-mountain-array) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/Adityayadav610/dsa/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [1293-three-consecutive-odds](https://github.com/Adityayadav610/dsa/tree/master/1293-three-consecutive-odds) |
+| [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Adityayadav610/dsa/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1364-tuple-with-same-product](https://github.com/Adityayadav610/dsa/tree/master/1364-tuple-with-same-product) |
 | [1395-minimum-time-visiting-all-points](https://github.com/Adityayadav610/dsa/tree/master/1395-minimum-time-visiting-all-points) |
 | [1511-count-number-of-teams](https://github.com/Adityayadav610/dsa/tree/master/1511-count-number-of-teams) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Adityayadav610/dsa/tree/master/0179-largest-number) |
 | [0409-longest-palindrome](https://github.com/Adityayadav610/dsa/tree/master/0409-longest-palindrome) |
 | [0979-di-string-match](https://github.com/Adityayadav610/dsa/tree/master/0979-di-string-match) |
+| [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Adityayadav610/dsa/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Adityayadav610/dsa/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1448-maximum-69-number](https://github.com/Adityayadav610/dsa/tree/master/1448-maximum-69-number) |
 | [1502-construct-k-palindrome-strings](https://github.com/Adityayadav610/dsa/tree/master/1502-construct-k-palindrome-strings) |
@@ -319,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0828-chalkboard-xor-game](https://github.com/Adityayadav610/dsa/tree/master/0828-chalkboard-xor-game) |
 | [0968-beautiful-array](https://github.com/Adityayadav610/dsa/tree/master/0968-beautiful-array) |
 | [1103-moving-stones-until-consecutive](https://github.com/Adityayadav610/dsa/tree/master/1103-moving-stones-until-consecutive) |
+| [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Adityayadav610/dsa/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1362-airplane-seat-assignment-probability](https://github.com/Adityayadav610/dsa/tree/master/1362-airplane-seat-assignment-probability) |
 | [1395-minimum-time-visiting-all-points](https://github.com/Adityayadav610/dsa/tree/master/1395-minimum-time-visiting-all-points) |
 | [1448-maximum-69-number](https://github.com/Adityayadav610/dsa/tree/master/1448-maximum-69-number) |
