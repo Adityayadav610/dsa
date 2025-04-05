@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1944-truncate-sentence](https://github.com/Adityayadav610/dsa/tree/master/1944-truncate-sentence) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Adityayadav610/dsa/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Adityayadav610/dsa/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Adityayadav610/dsa/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/Adityayadav610/dsa/tree/master/2000-minimum-speed-to-arrive-on-time) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/Adityayadav610/dsa/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2047-find-a-peak-element-ii](https://github.com/Adityayadav610/dsa/tree/master/2047-find-a-peak-element-ii) |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Adityayadav610/dsa/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/Adityayadav610/dsa/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [1935-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/Adityayadav610/dsa/tree/master/1935-minimum-number-of-operations-to-reinitialize-a-permutation) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Adityayadav610/dsa/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2083-three-divisors](https://github.com/Adityayadav610/dsa/tree/master/2083-three-divisors) |
 | [2238-a-number-after-a-double-reversal](https://github.com/Adityayadav610/dsa/tree/master/2238-a-number-after-a-double-reversal) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Adityayadav610/dsa/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
@@ -366,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1610-xor-operation-in-an-array](https://github.com/Adityayadav610/dsa/tree/master/1610-xor-operation-in-an-array) |
 | [1839-decode-xored-array](https://github.com/Adityayadav610/dsa/tree/master/1839-decode-xored-array) |
 | [1940-maximum-xor-for-each-query](https://github.com/Adityayadav610/dsa/tree/master/1940-maximum-xor-for-each-query) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Adityayadav610/dsa/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Adityayadav610/dsa/tree/master/2308-divide-array-into-equal-pairs) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Adityayadav610/dsa/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2427-first-letter-to-appear-twice](https://github.com/Adityayadav610/dsa/tree/master/2427-first-letter-to-appear-twice) |
@@ -560,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/Adityayadav610/dsa/tree/master/0204-count-primes) |
 | [1656-count-good-triplets](https://github.com/Adityayadav610/dsa/tree/master/1656-count-good-triplets) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Adityayadav610/dsa/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2083-three-divisors](https://github.com/Adityayadav610/dsa/tree/master/2083-three-divisors) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Adityayadav610/dsa/tree/master/2442-number-of-arithmetic-triplets) |
 | [2998-count-symmetric-integers](https://github.com/Adityayadav610/dsa/tree/master/2998-count-symmetric-integers) |
@@ -631,6 +635,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Adityayadav610/dsa/tree/master/0022-generate-parentheses) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Adityayadav610/dsa/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Adityayadav610/dsa/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Linked List
 |  |
@@ -744,4 +749,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Adityayadav610/dsa/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+## Combinatorics
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Adityayadav610/dsa/tree/master/1993-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
