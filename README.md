@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/Adityayadav610/dsa/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Adityayadav610/dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0735-asteroid-collision](https://github.com/Adityayadav610/dsa/tree/master/0735-asteroid-collision) |
+| [0797-rabbits-in-forest](https://github.com/Adityayadav610/dsa/tree/master/0797-rabbits-in-forest) |
 | [0822-unique-morse-code-words](https://github.com/Adityayadav610/dsa/tree/master/0822-unique-morse-code-words) |
 | [0828-chalkboard-xor-game](https://github.com/Adityayadav610/dsa/tree/master/0828-chalkboard-xor-game) |
 | [0837-most-common-word](https://github.com/Adityayadav610/dsa/tree/master/0837-most-common-word) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Adityayadav610/dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0768-partition-labels](https://github.com/Adityayadav610/dsa/tree/master/0768-partition-labels) |
 | [0782-jewels-and-stones](https://github.com/Adityayadav610/dsa/tree/master/0782-jewels-and-stones) |
+| [0797-rabbits-in-forest](https://github.com/Adityayadav610/dsa/tree/master/0797-rabbits-in-forest) |
 | [0822-unique-morse-code-words](https://github.com/Adityayadav610/dsa/tree/master/0822-unique-morse-code-words) |
 | [0837-most-common-word](https://github.com/Adityayadav610/dsa/tree/master/0837-most-common-word) |
 | [0924-fair-candy-swap](https://github.com/Adityayadav610/dsa/tree/master/0924-fair-candy-swap) |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Adityayadav610/dsa/tree/master/0179-largest-number) |
 | [0409-longest-palindrome](https://github.com/Adityayadav610/dsa/tree/master/0409-longest-palindrome) |
 | [0768-partition-labels](https://github.com/Adityayadav610/dsa/tree/master/0768-partition-labels) |
+| [0797-rabbits-in-forest](https://github.com/Adityayadav610/dsa/tree/master/0797-rabbits-in-forest) |
 | [0979-di-string-match](https://github.com/Adityayadav610/dsa/tree/master/0979-di-string-match) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Adityayadav610/dsa/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Adityayadav610/dsa/tree/master/1341-split-a-string-in-balanced-strings) |
@@ -327,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0384-shuffle-an-array](https://github.com/Adityayadav610/dsa/tree/master/0384-shuffle-an-array) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Adityayadav610/dsa/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0415-add-strings](https://github.com/Adityayadav610/dsa/tree/master/0415-add-strings) |
+| [0797-rabbits-in-forest](https://github.com/Adityayadav610/dsa/tree/master/0797-rabbits-in-forest) |
 | [0828-chalkboard-xor-game](https://github.com/Adityayadav610/dsa/tree/master/0828-chalkboard-xor-game) |
 | [0968-beautiful-array](https://github.com/Adityayadav610/dsa/tree/master/0968-beautiful-array) |
 | [1103-moving-stones-until-consecutive](https://github.com/Adityayadav610/dsa/tree/master/1103-moving-stones-until-consecutive) |
