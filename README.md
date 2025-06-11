@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Adityayadav610/dsa/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Adityayadav610/dsa/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Adityayadav610/dsa/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/Adityayadav610/dsa/tree/master/0088-merge-sorted-array) |
 | [0134-gas-station](https://github.com/Adityayadav610/dsa/tree/master/0134-gas-station) |
 | [0137-single-number-ii](https://github.com/Adityayadav610/dsa/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/Adityayadav610/dsa/tree/master/0152-maximum-product-subarray) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Adityayadav610/dsa/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Adityayadav610/dsa/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Adityayadav610/dsa/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Adityayadav610/dsa/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/Adityayadav610/dsa/tree/master/0147-insertion-sort-list) |
 | [0179-largest-number](https://github.com/Adityayadav610/dsa/tree/master/0179-largest-number) |
 | [0924-fair-candy-swap](https://github.com/Adityayadav610/dsa/tree/master/0924-fair-candy-swap) |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Adityayadav610/dsa/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0075-sort-colors](https://github.com/Adityayadav610/dsa/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Adityayadav610/dsa/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0088-merge-sorted-array](https://github.com/Adityayadav610/dsa/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Adityayadav610/dsa/tree/master/0125-valid-palindrome) |
 | [0143-reorder-list](https://github.com/Adityayadav610/dsa/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Adityayadav610/dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
