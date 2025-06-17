@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0828-chalkboard-xor-game](https://github.com/Adityayadav610/dsa/tree/master/0828-chalkboard-xor-game) |
 | [0837-most-common-word](https://github.com/Adityayadav610/dsa/tree/master/0837-most-common-word) |
 | [0841-shortest-distance-to-a-character](https://github.com/Adityayadav610/dsa/tree/master/0841-shortest-distance-to-a-character) |
+| [0890-lemonade-change](https://github.com/Adityayadav610/dsa/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/Adityayadav610/dsa/tree/master/0907-koko-eating-bananas) |
 | [0924-fair-candy-swap](https://github.com/Adityayadav610/dsa/tree/master/0924-fair-candy-swap) |
 | [0952-word-subsets](https://github.com/Adityayadav610/dsa/tree/master/0952-word-subsets) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Adityayadav610/dsa/tree/master/0409-longest-palindrome) |
 | [0768-partition-labels](https://github.com/Adityayadav610/dsa/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/Adityayadav610/dsa/tree/master/0797-rabbits-in-forest) |
+| [0890-lemonade-change](https://github.com/Adityayadav610/dsa/tree/master/0890-lemonade-change) |
 | [0979-di-string-match](https://github.com/Adityayadav610/dsa/tree/master/0979-di-string-match) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/Adityayadav610/dsa/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Adityayadav610/dsa/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
