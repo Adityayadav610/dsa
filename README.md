@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0968-beautiful-array](https://github.com/Adityayadav610/dsa/tree/master/0968-beautiful-array) |
 | [0979-di-string-match](https://github.com/Adityayadav610/dsa/tree/master/0979-di-string-match) |
 | [1025-minimum-cost-for-tickets](https://github.com/Adityayadav610/dsa/tree/master/1025-minimum-cost-for-tickets) |
+| [1047-maximize-sum-of-array-after-k-negations](https://github.com/Adityayadav610/dsa/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Adityayadav610/dsa/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1185-find-in-mountain-array](https://github.com/Adityayadav610/dsa/tree/master/1185-find-in-mountain-array) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/Adityayadav610/dsa/tree/master/1210-mean-of-array-after-removing-some-elements) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0147-insertion-sort-list](https://github.com/Adityayadav610/dsa/tree/master/0147-insertion-sort-list) |
 | [0179-largest-number](https://github.com/Adityayadav610/dsa/tree/master/0179-largest-number) |
 | [0924-fair-candy-swap](https://github.com/Adityayadav610/dsa/tree/master/0924-fair-candy-swap) |
+| [1047-maximize-sum-of-array-after-k-negations](https://github.com/Adityayadav610/dsa/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/Adityayadav610/dsa/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Adityayadav610/dsa/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Adityayadav610/dsa/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/Adityayadav610/dsa/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/Adityayadav610/dsa/tree/master/0797-rabbits-in-forest) |
 | [0979-di-string-match](https://github.com/Adityayadav610/dsa/tree/master/0979-di-string-match) |
+| [1047-maximize-sum-of-array-after-k-negations](https://github.com/Adityayadav610/dsa/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Adityayadav610/dsa/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Adityayadav610/dsa/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1448-maximum-69-number](https://github.com/Adityayadav610/dsa/tree/master/1448-maximum-69-number) |
