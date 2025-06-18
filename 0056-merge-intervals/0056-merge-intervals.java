@@ -5,22 +5,22 @@ class Solution {
         }  
 
         Arrays.sort(intervals, (a, b) -> Integer.compare(a[0], b[0]));  
-        List<int[]> merged = new ArrayList<>();  
-        int[] currentInterval = intervals[0];  
-        merged.add(currentInterval);  
-
-        for (int i = 1; i < intervals.length; i++) {  
-            int[] nextInterval = intervals[i];  
-
-            if (nextInterval[0] <= currentInterval[1]) {  
-                currentInterval[1] = Math.max(currentInterval[1], nextInterval[1]);  
-            } else {  
-                currentInterval = nextInterval;  
-                merged.add(currentInterval);  
-            }  
-        }  
-
-        return merged.toArray(new int[merged.size()][]);  
+        List<int[]> ans=new ArrayList<>();
+        int[] currInterval=intervals[0];
+        ans.add(currInterval);
+        for(int[] interval:intervals){
+            int currStart=currInterval[0];
+            int currEnd=currInterval[1];
+            int nextStart=interval[0];
+            int nextEnd=interval[1];
+            if(currEnd>=nextStart){
+                currInterval[1]=Math.max(currEnd,nextEnd);
+            }else{
+                currInterval=interval;
+                ans.add(currInterval);
+            }
+        } 
+        return ans.toArray(new int[ans.size()][]);
         
     }
 }
