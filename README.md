@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Adityayadav610/dsa/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Adityayadav610/dsa/tree/master/0322-coin-change) |
 | [0384-shuffle-an-array](https://github.com/Adityayadav610/dsa/tree/master/0384-shuffle-an-array) |
+| [0435-non-overlapping-intervals](https://github.com/Adityayadav610/dsa/tree/master/0435-non-overlapping-intervals) |
 | [0496-next-greater-element-i](https://github.com/Adityayadav610/dsa/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Adityayadav610/dsa/tree/master/0500-keyboard-row) |
 | [0525-contiguous-array](https://github.com/Adityayadav610/dsa/tree/master/0525-contiguous-array) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Adityayadav610/dsa/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/Adityayadav610/dsa/tree/master/0147-insertion-sort-list) |
 | [0179-largest-number](https://github.com/Adityayadav610/dsa/tree/master/0179-largest-number) |
+| [0435-non-overlapping-intervals](https://github.com/Adityayadav610/dsa/tree/master/0435-non-overlapping-intervals) |
 | [0924-fair-candy-swap](https://github.com/Adityayadav610/dsa/tree/master/0924-fair-candy-swap) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/Adityayadav610/dsa/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/Adityayadav610/dsa/tree/master/1210-mean-of-array-after-removing-some-elements) |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/Adityayadav610/dsa/tree/master/0134-gas-station) |
 | [0179-largest-number](https://github.com/Adityayadav610/dsa/tree/master/0179-largest-number) |
 | [0409-longest-palindrome](https://github.com/Adityayadav610/dsa/tree/master/0409-longest-palindrome) |
+| [0435-non-overlapping-intervals](https://github.com/Adityayadav610/dsa/tree/master/0435-non-overlapping-intervals) |
 | [0768-partition-labels](https://github.com/Adityayadav610/dsa/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/Adityayadav610/dsa/tree/master/0797-rabbits-in-forest) |
 | [0890-lemonade-change](https://github.com/Adityayadav610/dsa/tree/master/0890-lemonade-change) |
@@ -661,6 +664,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Adityayadav610/dsa/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Adityayadav610/dsa/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/Adityayadav610/dsa/tree/master/0392-is-subsequence) |
+| [0435-non-overlapping-intervals](https://github.com/Adityayadav610/dsa/tree/master/0435-non-overlapping-intervals) |
 | [0930-all-possible-full-binary-trees](https://github.com/Adityayadav610/dsa/tree/master/0930-all-possible-full-binary-trees) |
 | [1025-minimum-cost-for-tickets](https://github.com/Adityayadav610/dsa/tree/master/1025-minimum-cost-for-tickets) |
 | [1362-airplane-seat-assignment-probability](https://github.com/Adityayadav610/dsa/tree/master/1362-airplane-seat-assignment-probability) |
