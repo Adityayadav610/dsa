@@ -486,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0742-to-lower-case](https://github.com/Adityayadav610/dsa/tree/master/0742-to-lower-case) |
 | [0768-partition-labels](https://github.com/Adityayadav610/dsa/tree/master/0768-partition-labels) |
 | [0782-jewels-and-stones](https://github.com/Adityayadav610/dsa/tree/master/0782-jewels-and-stones) |
+| [0812-rotate-string](https://github.com/Adityayadav610/dsa/tree/master/0812-rotate-string) |
 | [0822-unique-morse-code-words](https://github.com/Adityayadav610/dsa/tree/master/0822-unique-morse-code-words) |
 | [0837-most-common-word](https://github.com/Adityayadav610/dsa/tree/master/0837-most-common-word) |
 | [0841-shortest-distance-to-a-character](https://github.com/Adityayadav610/dsa/tree/master/0841-shortest-distance-to-a-character) |
@@ -721,6 +722,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Adityayadav610/dsa/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/Adityayadav610/dsa/tree/master/0459-repeated-substring-pattern) |
+| [0812-rotate-string](https://github.com/Adityayadav610/dsa/tree/master/0812-rotate-string) |
 | [1524-string-matching-in-an-array](https://github.com/Adityayadav610/dsa/tree/master/1524-string-matching-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Adityayadav610/dsa/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Adityayadav610/dsa/tree/master/3309-count-prefix-and-suffix-pairs-i) |
