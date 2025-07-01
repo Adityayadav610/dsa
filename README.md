@@ -645,6 +645,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Adityayadav610/dsa/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/Adityayadav610/dsa/tree/master/0143-reorder-list) |
 | [0496-next-greater-element-i](https://github.com/Adityayadav610/dsa/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/Adityayadav610/dsa/tree/master/0735-asteroid-collision) |
@@ -708,6 +709,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Adityayadav610/dsa/tree/master/0094-binary-tree-inorder-traversal) |
 | [0930-all-possible-full-binary-trees](https://github.com/Adityayadav610/dsa/tree/master/0930-all-possible-full-binary-trees) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Adityayadav610/dsa/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Memoization
@@ -718,6 +720,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Adityayadav610/dsa/tree/master/0094-binary-tree-inorder-traversal) |
 | [0930-all-possible-full-binary-trees](https://github.com/Adityayadav610/dsa/tree/master/0930-all-possible-full-binary-trees) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Adityayadav610/dsa/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## String Matching
@@ -768,6 +771,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Adityayadav610/dsa/tree/master/0094-binary-tree-inorder-traversal) |
 | [0386-lexicographical-numbers](https://github.com/Adityayadav610/dsa/tree/master/0386-lexicographical-numbers) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Adityayadav610/dsa/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Binary Indexed Tree
