@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Adityayadav610/dsa/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3605-construct-the-minimum-bitwise-array-i](https://github.com/Adityayadav610/dsa/tree/master/3605-construct-the-minimum-bitwise-array-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Adityayadav610/dsa/tree/master/3616-make-array-elements-equal-to-zero) |
+| [3790-fruits-into-baskets-ii](https://github.com/Adityayadav610/dsa/tree/master/3790-fruits-into-baskets-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -344,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2469-longest-subsequence-with-limited-sum](https://github.com/Adityayadav610/dsa/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Adityayadav610/dsa/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/Adityayadav610/dsa/tree/master/2716-prime-subtraction-operation) |
+| [3790-fruits-into-baskets-ii](https://github.com/Adityayadav610/dsa/tree/master/3790-fruits-into-baskets-ii) |
 ## Math
 |  |
 | ------- |
@@ -461,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3566-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/Adityayadav610/dsa/tree/master/3566-find-the-sequence-of-strings-appeared-on-the-screen) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Adityayadav610/dsa/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Adityayadav610/dsa/tree/master/3616-make-array-elements-equal-to-zero) |
+| [3790-fruits-into-baskets-ii](https://github.com/Adityayadav610/dsa/tree/master/3790-fruits-into-baskets-ii) |
 ## String
 |  |
 | ------- |
@@ -782,6 +785,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1511-count-number-of-teams](https://github.com/Adityayadav610/dsa/tree/master/1511-count-number-of-teams) |
+| [3790-fruits-into-baskets-ii](https://github.com/Adityayadav610/dsa/tree/master/3790-fruits-into-baskets-ii) |
 ## Probability and Statistics
 |  |
 | ------- |
