@@ -777,6 +777,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Adityayadav610/dsa/tree/master/0094-binary-tree-inorder-traversal) |
+| [0207-course-schedule](https://github.com/Adityayadav610/dsa/tree/master/0207-course-schedule) |
 | [0386-lexicographical-numbers](https://github.com/Adityayadav610/dsa/tree/master/0386-lexicographical-numbers) |
 | [0733-flood-fill](https://github.com/Adityayadav610/dsa/tree/master/0733-flood-fill) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Adityayadav610/dsa/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -801,6 +802,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Adityayadav610/dsa/tree/master/0207-course-schedule) |
 | [0322-coin-change](https://github.com/Adityayadav610/dsa/tree/master/0322-coin-change) |
 | [0733-flood-fill](https://github.com/Adityayadav610/dsa/tree/master/0733-flood-fill) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Adityayadav610/dsa/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -816,4 +818,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Adityayadav610/dsa/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Graph
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Adityayadav610/dsa/tree/master/0207-course-schedule) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Adityayadav610/dsa/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
